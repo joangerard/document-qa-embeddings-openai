@@ -5,7 +5,7 @@ This project runs under Python 3.11.5
 
 # Install
 
-This are the MacOs Instructions:
+These are the MacOs Instructions:
 
 ```
 cd document-q-and-a-example/

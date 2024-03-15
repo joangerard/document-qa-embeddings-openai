@@ -1,0 +1,5 @@
+docs/*
+env/*
+processed/*
+text/*
+__pycache__
